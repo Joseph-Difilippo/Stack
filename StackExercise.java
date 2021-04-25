@@ -56,19 +56,5 @@ public class StackExercise {
 		return ret;
 	}
 
-	/*
-	 * Extra credit exercise (10%): This function evaluates "postfix" expressions
-	 * (also called "Reverse Polish Notation"), which are mathematical expressions
-	 * but with the operators placed after operands instead of between. For example:
-	 * 1 + 2 * 3 + 4 is written as 1 2 3 * + 4 +
-	 */
-	/**
-	 * 
-	 * @param str
-	 * @return the result of postfix expression
-	 */
-
-	public static int postfixEvaluate(String exp) {
-		return -1;
-	}
+	
 }
